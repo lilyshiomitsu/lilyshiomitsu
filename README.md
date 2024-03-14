@@ -1,4 +1,4 @@
-👋 Hi, I’m Lily Shiomitsu!
+👋 Hi, I’m Lily Shiomitsu!\
 🌱 I’m a 2nd-year Computer Science major at Northeastern University
 
 <!---
