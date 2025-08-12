@@ -1,7 +1,6 @@
 
 👋 Hi, I’m Lily Shiomitsu!\
-🌱 I’m a 3rd-year Computer Science major at Northeastern University\
-✨ DevOps Software Engineer Co-op @ Wolters Kluwer
+🌱 I’m a 4th-year Computer Science major at Northeastern University\
 <!---
 lilyshiomitsu/lilyshiomitsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
