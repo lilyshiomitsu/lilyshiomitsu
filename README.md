@@ -1,6 +1,12 @@
 
 👋 Hi, I’m Lily Shiomitsu!\
 🌱 I’m a 4th-year Computer Science major at Northeastern University
+
+🔗 **Connect With Me**  
+🌐 [LinkedIn Profile](https://linkedin.com/in/lily-shiomitsu)  
+📧 Email: shiomitsu.l@northeastern.edu
+
+![](https://komarev.com/ghpvc/?username=lilyshiomitsu&color=blueviolet)
 <!---
 lilyshiomitsu/lilyshiomitsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -12,9 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 I'm a **third-year Computer Science major** passionate about **AI/ML, software engineering, and innovative technologies**. I thrive on building solutions that empower users and solve real-world problems. Let's connect and collaborate on exciting projects!
 
-🔗 **Connect With Me**  
-🌐 [LinkedIn Profile](https://linkedin.com/in/lily-shiomitsu)  
-📧 Email: shiomitsu.l@northeastern.edu
+
 
 💼 **About Me**  
 I am a highly motivated computer science student with experience in AI/ML, web development, and software engineering. My journey includes a software engineering internship at **Ultimate Kronos Group (UKG)** and participation in the **Break Through Tech AI Fellowship @ MIT**, where I worked on building a travel itinerary generator using LLM models. I will also be a DevOps software engineer co-op @ **Wolters Kluwer** this upcoming spring semester.  
