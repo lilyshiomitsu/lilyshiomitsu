@@ -1,6 +1,7 @@
 
 👋 Hi, I’m Lily Shiomitsu!\
-🌱 I’m a recent Computer Science and AI graduate from Northeastern University
+🌱 Recent Computer Science and AI graduate from Northeastern University
+🌟 Software Engineer @ Wolters Kluwer
 
 🔗 **Connect With Me**  
 🌐 [LinkedIn Profile](https://linkedin.com/in/lily-shiomitsu)  
